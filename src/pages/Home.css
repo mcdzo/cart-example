@@ -1,0 +1,22 @@
+.products {
+  width: 30vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(236, 235, 235);
+  overflow-y: scroll;
+}
+
+.product-detail {
+  width: 30vw;
+  height: 100vh;
+}
+
+.cart {
+  width: 40vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
